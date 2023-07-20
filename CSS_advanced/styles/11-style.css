@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .section-header {
-    text-align: var(--section-header-align);
+  text-align: var(--section-header-align);
 }
 
 .visually-hidden{
@@ -34,7 +34,7 @@ h1, h2, h3, h4, h5, h6{
 
 .section-tagline{
   font-family: var(--font-family-title);
-  text: var(--section-tagline-transform);
+  text-trasform: var(--section-tagline-transform);
   font-weight: var(--font-weight-bold);
 }
 :root{
