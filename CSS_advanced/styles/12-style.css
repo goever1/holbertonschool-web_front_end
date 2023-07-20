@@ -20,7 +20,7 @@ h1, h2, h3, h4, h5, h6{
   font-weight: var(--font-weight-bold);
 }
 
-.section-header {
+.section-header{
   text-align: var(--section-header-align);
 }
 
@@ -33,11 +33,11 @@ h1, h2, h3, h4, h5, h6{
 }
 
 .section-title{
-  font-family: var(--font-family-title);
-  font-size: var(--font-size-xx-large);
-  font-weight: var(--font-weight-bold);
-  margin: var(--section-title-margin);
-  color: var(--section-title-color);
+    font-family: var(--font-family-title);
+    font-size: var(--font-size-xx-large);
+    font-weight: var(--font-weight-bold);
+    margin: var(--section-title-margin);
+    color: var(--section-title-color);
 }
 
 .section-tagline{
