@@ -321,7 +321,7 @@ ul.row{
 
 [class^="col-"]{
   float: left;
-  clear: both;
+  padding: 0.5rem;
 }
 /*# sourceMappingURL=normalize.min.css.map */
 
